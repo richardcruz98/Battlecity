@@ -1,0 +1,69 @@
+﻿  GameManager.cpp
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,22): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,22): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,39): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,39): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,56): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,56): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,73): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,73): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,90): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,90): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,107): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(137,107): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,22): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,22): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,39): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,39): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,56): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,56): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,73): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,73): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,90): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,90): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,107): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(138,107): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(143,39): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(143,39): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(143,56): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(143,56): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(143,90): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(143,90): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(143,107): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(143,107): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,22): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,22): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,39): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,39): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,56): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,56): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,73): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,73): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,90): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,90): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,107): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(144,107): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(149,56): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(149,56): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(149,90): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(149,90): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(150,39): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(150,39): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(150,90): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(150,90): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(150,107): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\Nivel.h(150,107): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(177,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(194,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(194,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(199,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(199,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(207,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(207,64): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(220,94): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(220,85): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(323,10): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(324,10): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(354,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\sis457\Repositorios\BattleCity-main\PBattleCity\GameManager.cpp(354,63): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  PBattleCity.vcxproj -> D:\sis457\Repositorios\BattleCity-main\x64\Debug\PBattleCity.exe
